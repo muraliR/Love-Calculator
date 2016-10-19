@@ -1,7 +1,7 @@
 {
-  "name": "love-calculator",
+  "name": "Love ",
   "version": "1.0.0",
-  "description": "Love Ccalculator",
+  "description": "Love Guru",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
