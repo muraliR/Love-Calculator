@@ -1,0 +1,32 @@
+.app-android .app-list>li {
+  padding: 0 0 0 0;
+  height: auto;
+  line-height: 25px;
+  margin-bottom: 15px;
+  background-color: #f4fcfb;
+}
+
+/*img {
+  width: 100%;
+  height: auto;
+}*/
+
+.hidden {
+  display: none;
+}
+
+.app-section {
+	height: 90%;
+}
+
+.submit-button {
+	background-color: #c9cacc; !important	
+    color: #8c8c8c;
+}
+
+.loading {
+	width: 50%;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+}
