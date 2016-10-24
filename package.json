@@ -13,6 +13,7 @@
     "npm": "*",
     "express": "*",
     "express-handlebars": "*",
-    "request": "*"
+    "request": "*",
+    "body-parser": "*"
   }
 }
