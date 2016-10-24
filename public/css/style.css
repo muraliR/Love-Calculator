@@ -16,7 +16,8 @@
 }
 
 .app-section {
-	height: 90%;
+    height: 90%;
+    background-image: url("http://quotesideas.com/wp-content/uploads/2015/10/animated_love_mobile_wallpaper-451.gif");
 }
 
 .submit-button {
@@ -29,4 +30,17 @@
     position: absolute;
     top: 30%;
     left: 25%;
+}
+
+.form-input {
+  margin-top: 4%;
+  margin-bottom: 4%;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
 }
