@@ -15,7 +15,6 @@
     "express-handlebars": "*",
     "request": "*",
     "body-parser": "*",
-    "aws-sdk": "*",
-    "fs": "*"
+    "aws-sdk": "*"
   }
 }
