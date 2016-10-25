@@ -7,6 +7,7 @@ app.get('/', function(req, res) {
 	res.render('home');
 });
 
+
 app.get('/calculate', function(req, res) {
 	console.log(req.query);
 
