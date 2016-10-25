@@ -13,8 +13,6 @@
     "npm": "*",
     "express": "*",
     "express-handlebars": "*",
-    "request": "*",
-    "body-parser": "*",
-    "aws-sdk": "*"
+    "request": "*"
   }
 }

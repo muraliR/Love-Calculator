@@ -1,6 +1,5 @@
 {
-  "version" : "1.0",
+  "version" : "1.0.3",
   "app_name" : "love-guru",
-  "mobile_app_name" : "Love Guru",
-  "mobile_app_logo_url" : "https://apk-dl.com/detail/image/com.planetradiocity.loveguru-w250.png"
+  "mobile_app_name" : "Love Guru"
 }
