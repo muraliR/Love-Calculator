@@ -4,7 +4,7 @@
   "description": "Love Guru",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node love_guru.js"
   },
   "author": "",
   "license": "ISC",
